@@ -1,0 +1,15 @@
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/bin/Debug/net6.0/GetEnvVariables
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/bin/Debug/net6.0/GetEnvVariables.deps.json
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/bin/Debug/net6.0/GetEnvVariables.runtimeconfig.json
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/bin/Debug/net6.0/GetEnvVariables.dll
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/bin/Debug/net6.0/GetEnvVariables.pdb
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/obj/Debug/net6.0/GetEnvVariables.csproj.AssemblyReference.cache
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/obj/Debug/net6.0/GetEnvVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/obj/Debug/net6.0/GetEnvVariables.AssemblyInfoInputs.cache
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/obj/Debug/net6.0/GetEnvVariables.AssemblyInfo.cs
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/obj/Debug/net6.0/GetEnvVariables.csproj.CoreCompileInputs.cache
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/obj/Debug/net6.0/GetEnvVariables.dll
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/obj/Debug/net6.0/refint/GetEnvVariables.dll
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/obj/Debug/net6.0/GetEnvVariables.pdb
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/obj/Debug/net6.0/GetEnvVariables.genruntimeconfig.cache
+/Users/olga.diakonova/RiderProjects/GetSystemVariables/GetEnvVariables/obj/Debug/net6.0/ref/GetEnvVariables.dll
